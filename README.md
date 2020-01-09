@@ -1,7 +1,7 @@
 # keys
 This page contains public keys I use to sign/encrypt things online
 
-<p>GPG Fingerprint: D130F6BD4356779AE253EAB0AF41E214D23762CF</p>
+<p>GPG Fingerprint (expires 2021OOCT21): D130F6BD4356779AE253EAB0AF41E214D23762CF</p>
 
 <code>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
